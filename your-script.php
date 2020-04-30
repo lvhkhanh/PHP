@@ -1,0 +1,1 @@
+<?="Running PHP inside Docker!"?>
