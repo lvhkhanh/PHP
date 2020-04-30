@@ -6,6 +6,8 @@
 ### HTML
 ### CSS
 ### JavaScript
+## Framworks
+### Laravel
 ## Courses
 ### https://www.codecademy.com/learn/learn-php
 ### https://www.w3schools.com/php/
