@@ -1,15 +1,24 @@
 # PHP
 
-## https://www.w3schools.com/php/
+## Official
+### https://www.php.net/
+## Prerequisite
+### HTML
+### CSS
+### JavaScript
+## Courses
+### https://www.codecademy.com/learn/learn-php
+### https://www.w3schools.com/php/
 
-## https://www.tutorialspoint.com/php/index.htm
+### https://www.tutorialspoint.com/php/index.htm
 
-## https://www.codecademy.com/learn/learn-php
+### https://phptherightway.com/
 
-## https://phptherightway.com/
+### https://www.learn-php.org/
 
-## https://www.learn-php.org/
+### https://www.guru99.com/php-tutorials.html
 
-## https://www.guru99.com/php-tutorials.html
+### https://www.javatpoint.com/php-tutorial
 
-## https://www.javatpoint.com/php-tutorial
+## Links
+### https://en.wikipedia.org/wiki/PHP
