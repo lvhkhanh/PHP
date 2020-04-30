@@ -21,6 +21,7 @@
 ### https://www.guru99.com/php-tutorials.html
 
 ### https://www.javatpoint.com/php-tutorial
-
+## Books
+### PHP & MySQL: Novice to Ninja, 6th Edition
 ## Links
 ### https://en.wikipedia.org/wiki/PHP
